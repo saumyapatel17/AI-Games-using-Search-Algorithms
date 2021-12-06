@@ -1,0 +1,962 @@
+Successors: [((4, 10), 'RIGHT', 3.0413812651491097), ((3, 11), 'DOWN', 6.082762530298219)]
+Current: (4, 10)
+Current pos (successor function): (4, 10)
+Successors: [((4, 9), 'UP', 6.324555320336759), ((4, 11), 'DOWN', 6.324555320336759)]
+Current: (3, 11)
+Current pos (successor function): (3, 11)
+Successors: [((4, 11), 'RIGHT', 3.5355339059327378), ((3, 12), 'DOWN', 7.0710678118654755)]
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: [((4, 10), 'DOWN', 5.385164807134504)]
+Current: (4, 11)
+Current pos (successor function): (4, 11)
+Successors: [((3, 11), 'LEFT', 3.640054944640259), ((4, 10), 'UP', 7.280109889280518)]
+Current: (4, 11)
+Current: (3, 12)
+Current pos (successor function): (3, 12)
+Successors: [((3, 11), 'UP', 8.06225774829855), ((3, 13), 'DOWN', 8.06225774829855)]
+Current: (3, 13)
+Current pos (successor function): (3, 13)
+Successors: [((3, 12), 'UP', 9.055385138137417)]
+Current: (3, 10)
+Current pos (successor function): (3, 10)
+Successors: [((4, 10), 'RIGHT', 3.5355339059327378), ((3, 11), 'DOWN', 7.0710678118654755)]
+Current: (4, 10)
+Current pos (successor function): (4, 10)
+Successors: [((4, 9), 'UP', 6.4031242374328485), ((4, 11), 'DOWN', 6.4031242374328485)]
+Current: (3, 11)
+Current pos (successor function): (3, 11)
+Successors: [((4, 11), 'RIGHT', 3.905124837953327), ((3, 12), 'DOWN', 7.810249675906654)]
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: [((4, 10), 'DOWN', 5.656854249492381)]
+Current: (4, 11)
+Current pos (successor function): (4, 11)
+Successors: [((3, 11), 'LEFT', 3.605551275463989), ((4, 10), 'UP', 7.211102550927978)]
+Current: (4, 11)
+Current: (3, 12)
+Current pos (successor function): (3, 12)
+Successors: [((3, 11), 'UP', 8.602325267042627), ((3, 13), 'DOWN', 8.602325267042627)]
+Current: (3, 13)
+Current pos (successor function): (3, 13)
+Successors: [((3, 12), 'UP', 9.433981132056603)]
+Current: (3, 10)
+Current pos (successor function): (3, 10)
+Successors: [((4, 10), 'RIGHT', 6.800735254367722), ((3, 11), 'DOWN', 13.601470508735444)]
+Current: (4, 10)
+Current pos (successor function): (4, 10)
+Successors: [((4, 9), 'UP', 12.649110640673518), ((4, 11), 'DOWN', 12.649110640673518)]
+Current: (3, 11)
+Current pos (successor function): (3, 11)
+Successors: [((4, 11), 'RIGHT', 6.96419413859206), ((3, 12), 'DOWN', 13.92838827718412)]
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: [((4, 10), 'DOWN', 12.36931687685298)]
+Current: (4, 11)
+Current pos (successor function): (4, 11)
+Successors: [((3, 11), 'LEFT', 6.5), ((4, 10), 'UP', 13.0)]
+Current: (4, 11)
+Current: (3, 12)
+Current pos (successor function): (3, 12)
+Successors: [((3, 11), 'UP', 14.317821063276353), ((3, 13), 'DOWN', 14.317821063276353)]
+Current: (3, 13)
+Current pos (successor function): (3, 13)
+Successors: [((3, 12), 'UP', 14.7648230602334)]
+Current: (3, 10)
+Current pos (successor function): (3, 10)
+Successors: [((4, 10), 'RIGHT', 2.5495097567963922), ((3, 11), 'DOWN', 5.0990195135927845)]
+Current: (4, 10)
+Current pos (successor function): (4, 10)
+Successors: [((4, 9), 'UP', 5.0), ((4, 11), 'DOWN', 5.0)]
+Current: (3, 11)
+Current pos (successor function): (3, 11)
+Successors: [((4, 11), 'RIGHT', 3.0413812651491097), ((3, 12), 'DOWN', 6.082762530298219)]
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: [((4, 10), 'DOWN', 4.0)]
+Current: (4, 11)
+Current pos (successor function): (4, 11)
+Successors: [((3, 11), 'LEFT', 3.0), ((4, 10), 'UP', 6.0)]
+Current: (4, 11)
+Current: (3, 12)
+Current pos (successor function): (3, 12)
+Successors: [((3, 11), 'UP', 7.0710678118654755), ((3, 13), 'DOWN', 7.0710678118654755)]
+Current: (3, 13)
+Current pos (successor function): (3, 13)
+Successors: [((3, 12), 'UP', 8.06225774829855)]
+Current: (3, 10)
+Current pos (successor function): (3, 10)
+Successors: [((4, 10), 'RIGHT', 6.946221994724902), ((3, 11), 'DOWN', 13.892443989449804)]
+Current: (4, 10)
+Current pos (successor function): (4, 10)
+Successors: [((4, 9), 'UP', 13.038404810405298), ((4, 11), 'DOWN', 13.038404810405298)]
+Current: (3, 11)
+Current pos (successor function): (3, 11)
+Successors: [((4, 11), 'RIGHT', 6.708203932499369), ((3, 12), 'DOWN', 13.416407864998739)]
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: [((4, 10), 'DOWN', 13.601470508735444)]
+Current: (4, 11)
+Current pos (successor function): (4, 11)
+Successors: [((3, 11), 'LEFT', 6.264982043070834), ((4, 10), 'UP', 12.529964086141668)]
+Current: (4, 11)
+Current: (3, 12)
+Current pos (successor function): (3, 12)
+Successors: [((3, 11), 'UP', 13.0), ((3, 13), 'DOWN', 13.0)]
+Current: (3, 13)
+Current pos (successor function): (3, 13)
+Successors: [((3, 12), 'UP', 12.649110640673518)]
+Current: (3, 10)
+Current pos (successor function): (3, 10)
+Successors: [((4, 10), 'RIGHT', 1.5), ((3, 11), 'DOWN', 3.0)]
+Current: (4, 10)
+Current pos (successor function): (4, 10)
+Successors: [((4, 9), 'UP', 4.0), ((4, 11), 'DOWN', 4.0)]
+Current: (3, 11)
+Current pos (successor function): (3, 11)
+Successors: [((4, 11), 'RIGHT', 1.5811388300841898), ((3, 12), 'DOWN', 3.1622776601683795)]
+Current: (4, 11)
+Current pos (successor function): (4, 11)
+Successors: [((3, 11), 'LEFT', 2.0615528128088303), ((4, 10), 'UP', 4.123105625617661)]
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: [((4, 10), 'DOWN', 4.123105625617661)]
+Current: (4, 11)
+Current: (3, 12)
+Current pos (successor function): (3, 12)
+Successors: [((3, 11), 'UP', 3.605551275463989), ((3, 13), 'DOWN', 3.605551275463989)]
+Current: (3, 13)
+Current pos (successor function): (3, 13)
+Successors: [((3, 12), 'UP', 4.242640687119285)]
+Current: (3, 10)
+Current pos (successor function): (3, 10)
+Successors: [((4, 10), 'RIGHT', 4.0), ((3, 11), 'DOWN', 8.0)]
+Current: (4, 10)
+Current pos (successor function): (4, 10)
+Successors: [((4, 9), 'UP', 8.06225774829855), ((4, 11), 'DOWN', 8.06225774829855)]
+Current: (3, 11)
+Current pos (successor function): (3, 11)
+Successors: [((4, 11), 'RIGHT', 3.5), ((3, 12), 'DOWN', 7.0)]
+Current: (4, 11)
+Current pos (successor function): (4, 11)
+Successors: [((3, 11), 'LEFT', 3.5355339059327378), ((4, 10), 'UP', 7.0710678118654755)]
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: [((4, 10), 'DOWN', 9.055385138137417)]
+Current: (4, 11)
+Current: (3, 12)
+Current pos (successor function): (3, 12)
+Successors: [((3, 11), 'UP', 6.0), ((3, 13), 'DOWN', 6.0)]
+Current: (3, 13)
+Current pos (successor function): (3, 13)
+Successors: [((3, 12), 'UP', 5.0)]
+Current: (3, 10)
+Current pos (successor function): (3, 10)
+Successors: [((4, 10), 'RIGHT', 5.0), ((3, 11), 'DOWN', 10.0)]
+Current: (4, 10)
+Current pos (successor function): (4, 10)
+Successors: [((4, 9), 'UP', 9.219544457292887), ((4, 11), 'DOWN', 9.219544457292887)]
+Current: (3, 11)
+Current pos (successor function): (3, 11)
+Successors: [((4, 11), 'RIGHT', 4.716990566028302), ((3, 12), 'DOWN', 9.433981132056603)]
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: [((4, 10), 'DOWN', 9.899494936611665)]
+Current: (4, 11)
+Current pos (successor function): (4, 11)
+Successors: [((3, 11), 'LEFT', 4.301162633521313), ((4, 10), 'UP', 8.602325267042627)]
+Current: (4, 11)
+Current: (3, 12)
+Current pos (successor function): (3, 12)
+Successors: [((3, 11), 'UP', 8.94427190999916), ((3, 13), 'DOWN', 8.94427190999916)]
+Current: (3, 13)
+Current pos (successor function): (3, 13)
+Successors: [((3, 12), 'UP', 8.54400374531753)]
+Current: (3, 10)
+Current pos (successor function): (3, 10)
+Successors: [((4, 10), 'RIGHT', 5.0), ((3, 11), 'DOWN', 10.0)]
+Current: (4, 10)
+Current pos (successor function): (4, 10)
+Successors: [((4, 9), 'UP', 10.04987562112089), ((4, 11), 'DOWN', 10.04987562112089)]
+Current: (3, 11)
+Current pos (successor function): (3, 11)
+Successors: [((4, 11), 'RIGHT', 5.5), ((3, 12), 'DOWN', 11.0)]
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: [((4, 10), 'DOWN', 9.055385138137417)]
+Current: (4, 11)
+Current pos (successor function): (4, 11)
+Successors: [((3, 11), 'LEFT', 5.522680508593631), ((4, 10), 'UP', 11.045361017187261)]
+Current: (4, 11)
+Current: (3, 12)
+Current pos (successor function): (3, 12)
+Successors: [((3, 11), 'UP', 12.0), ((3, 13), 'DOWN', 12.0)]
+Current: (3, 13)
+Current pos (successor function): (3, 13)
+Successors: [((3, 12), 'UP', 13.0)]
+Current: (3, 10)
+Current pos (successor function): (3, 10)
+Successors: [((4, 10), 'RIGHT', 7.0710678118654755), ((3, 11), 'DOWN', 14.142135623730951)]
+Current: (4, 10)
+Current pos (successor function): (4, 10)
+Successors: [((4, 9), 'UP', 13.45362404707371), ((4, 11), 'DOWN', 13.45362404707371)]
+Current: (3, 11)
+Current pos (successor function): (3, 11)
+Successors: [((4, 11), 'RIGHT', 7.433034373659253), ((3, 12), 'DOWN', 14.866068747318506)]
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: [((4, 10), 'DOWN', 12.727922061357855)]
+Current: (4, 11)
+Current pos (successor function): (4, 11)
+Successors: [((3, 11), 'LEFT', 7.106335201775948), ((4, 10), 'UP', 14.212670403551895)]
+Current: (4, 11)
+Current: (3, 12)
+Current pos (successor function): (3, 12)
+Successors: [((3, 11), 'UP', 15.620499351813308), ((3, 13), 'DOWN', 15.620499351813308)]
+Current: (3, 13)
+Current pos (successor function): (3, 13)
+Successors: [((3, 12), 'UP', 16.401219466856727)]
+Current: (3, 10)
+Current pos (successor function): (3, 10)
+Successors: [((4, 10), 'RIGHT', 6.4031242374328485), ((3, 11), 'DOWN', 12.806248474865697)]
+Current: (4, 10)
+Current pos (successor function): (4, 10)
+Successors: [((4, 9), 'UP', 12.206555615733702), ((4, 11), 'DOWN', 12.206555615733702)]
+Current: (3, 11)
+Current pos (successor function): (3, 11)
+Successors: [((4, 11), 'RIGHT', 6.800735254367722), ((3, 12), 'DOWN', 13.601470508735444)]
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: [((4, 10), 'DOWN', 11.40175425099138)]
+Current: (4, 11)
+Current pos (successor function): (4, 11)
+Successors: [((3, 11), 'LEFT', 6.519202405202649), ((4, 10), 'UP', 13.038404810405298)]
+Current: (4, 11)
+Current: (3, 12)
+Current pos (successor function): (3, 12)
+Successors: [((3, 11), 'UP', 14.422205101855956), ((3, 13), 'DOWN', 14.422205101855956)]
+Current: (3, 13)
+Current pos (successor function): (3, 13)
+Successors: [((3, 12), 'UP', 15.264337522473747)]
+Current: (3, 10)
+Current pos (successor function): (3, 10)
+Successors: [((4, 10), 'RIGHT', 1.8027756377319946), ((3, 11), 'DOWN', 3.605551275463989)]
+Current: (4, 10)
+Current pos (successor function): (4, 10)
+Successors: [((4, 9), 'UP', 4.47213595499958), ((4, 11), 'DOWN', 4.47213595499958)]
+Current: (3, 11)
+Current pos (successor function): (3, 11)
+Successors: [((4, 11), 'RIGHT', 1.5811388300841898), ((3, 12), 'DOWN', 3.1622776601683795)]
+Current: (4, 11)
+Current pos (successor function): (4, 11)
+Successors: [((3, 11), 'LEFT', 2.0615528128088303), ((4, 10), 'UP', 4.123105625617661)]
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: [((4, 10), 'DOWN', 5.0)]
+Current: (4, 11)
+Current: (3, 12)
+Current pos (successor function): (3, 12)
+Successors: [((3, 11), 'UP', 3.0), ((3, 13), 'DOWN', 3.0)]
+Current: (3, 13)
+Current pos (successor function): (3, 13)
+Successors: [((3, 12), 'UP', 3.1622776601683795)]
+Current: (3, 10)
+Current pos (successor function): (3, 10)
+Successors: [((4, 10), 'RIGHT', 6.103277807866851), ((3, 11), 'DOWN', 12.206555615733702)]
+Current: (4, 10)
+Current pos (successor function): (4, 10)
+Successors: [((4, 9), 'UP', 11.40175425099138), ((4, 11), 'DOWN', 11.40175425099138)]
+Current: (3, 11)
+Current pos (successor function): (3, 11)
+Successors: [((4, 11), 'RIGHT', 6.4031242374328485), ((3, 12), 'DOWN', 12.806248474865697)]
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: [((4, 10), 'DOWN', 10.816653826391969)]
+Current: (4, 11)
+Current pos (successor function): (4, 11)
+Successors: [((3, 11), 'LEFT', 6.020797289396148), ((4, 10), 'UP', 12.041594578792296)]
+Current: (4, 11)
+Current: (3, 12)
+Current pos (successor function): (3, 12)
+Successors: [((3, 11), 'UP', 13.45362404707371), ((3, 13), 'DOWN', 13.45362404707371)]
+Current: (3, 13)
+Current pos (successor function): (3, 13)
+Successors: [((3, 12), 'UP', 14.142135623730951)]
+Current: (3, 10)
+Current pos (successor function): (3, 10)
+Successors: [((4, 10), 'RIGHT', 6.800735254367722), ((3, 11), 'DOWN', 13.601470508735444)]
+Current: (4, 10)
+Current pos (successor function): (4, 10)
+Successors: [((4, 9), 'UP', 12.806248474865697), ((4, 11), 'DOWN', 12.806248474865697)]
+Current: (3, 11)
+Current pos (successor function): (3, 11)
+Successors: [((4, 11), 'RIGHT', 7.106335201775948), ((3, 12), 'DOWN', 14.212670403551895)]
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: [((4, 10), 'DOWN', 12.206555615733702)]
+Current: (4, 11)
+Current pos (successor function): (4, 11)
+Successors: [((3, 11), 'LEFT', 6.726812023536855), ((4, 10), 'UP', 13.45362404707371)]
+Current: (4, 11)
+Current: (3, 12)
+Current pos (successor function): (3, 12)
+Successors: [((3, 11), 'UP', 14.866068747318506), ((3, 13), 'DOWN', 14.866068747318506)]
+Current: (3, 13)
+Current pos (successor function): (3, 13)
+Successors: [((3, 12), 'UP', 15.556349186104045)]
+Current: (3, 10)
+Current pos (successor function): (3, 10)
+Successors: [((4, 10), 'RIGHT', 4.924428900898052), ((3, 11), 'DOWN', 9.848857801796104)]
+Current: (4, 10)
+Current pos (successor function): (4, 10)
+Successors: [((4, 9), 'UP', 8.94427190999916), ((4, 11), 'DOWN', 8.94427190999916)]
+Current: (3, 11)
+Current pos (successor function): (3, 11)
+Successors: [((4, 11), 'RIGHT', 5.1478150704935), ((3, 12), 'DOWN', 10.295630140987)]
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: [((4, 10), 'DOWN', 8.54400374531753)]
+Current: (4, 11)
+Current pos (successor function): (4, 11)
+Successors: [((3, 11), 'LEFT', 4.716990566028302), ((4, 10), 'UP', 9.433981132056603)]
+Current: (4, 11)
+Current: (3, 12)
+Current pos (successor function): (3, 12)
+Successors: [((3, 11), 'UP', 10.816653826391969), ((3, 13), 'DOWN', 10.816653826391969)]
+Current: (3, 13)
+Current pos (successor function): (3, 13)
+Successors: [((3, 12), 'UP', 11.40175425099138)]
+Current: (3, 10)
+Current pos (successor function): (3, 10)
+Successors: [((4, 10), 'RIGHT', 6.5), ((3, 11), 'DOWN', 13.0)]
+Current: (4, 10)
+Current pos (successor function): (4, 10)
+Successors: [((4, 9), 'UP', 12.0), ((4, 11), 'DOWN', 12.0)]
+Current: (3, 11)
+Current pos (successor function): (3, 11)
+Successors: [((4, 11), 'RIGHT', 6.519202405202649), ((3, 12), 'DOWN', 13.038404810405298)]
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: [((4, 10), 'DOWN', 12.041594578792296)]
+Current: (4, 11)
+Current pos (successor function): (4, 11)
+Successors: [((3, 11), 'LEFT', 6.020797289396148), ((4, 10), 'UP', 12.041594578792296)]
+Current: (4, 11)
+Current: (3, 12)
+Current pos (successor function): (3, 12)
+Successors: [((3, 11), 'UP', 13.152946437965905), ((3, 13), 'DOWN', 13.152946437965905)]
+Current: (3, 13)
+Current pos (successor function): (3, 13)
+Successors: [((3, 12), 'UP', 13.341664064126334)]
+Current: (3, 10)
+Current pos (successor function): (3, 10)
+Successors: [((4, 10), 'RIGHT', 7.433034373659253), ((3, 11), 'DOWN', 14.866068747318506)]
+Current: (4, 10)
+Current pos (successor function): (4, 10)
+Successors: [((4, 9), 'UP', 13.92838827718412), ((4, 11), 'DOWN', 13.92838827718412)]
+Current: (3, 11)
+Current pos (successor function): (3, 11)
+Successors: [((4, 11), 'RIGHT', 7.280109889280518), ((3, 12), 'DOWN', 14.560219778561036)]
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: [((4, 10), 'DOWN', 14.317821063276353)]
+Current: (4, 11)
+Current pos (successor function): (4, 11)
+Successors: [((3, 11), 'LEFT', 6.800735254367722), ((4, 10), 'UP', 13.601470508735444)]
+Current: (4, 11)
+Current: (3, 12)
+Current pos (successor function): (3, 12)
+Successors: [((3, 11), 'UP', 14.317821063276353), ((3, 13), 'DOWN', 14.317821063276353)]
+Current: (3, 13)
+Current pos (successor function): (3, 13)
+Successors: [((3, 12), 'UP', 14.142135623730951)]
+Current: (3, 10)
+Current pos (successor function): (3, 10)
+Successors: [((4, 10), 'RIGHT', 5.70087712549569), ((3, 11), 'DOWN', 11.40175425099138)]
+Current: (4, 10)
+Current pos (successor function): (4, 10)
+Successors: [((4, 9), 'UP', 10.63014581273465), ((4, 11), 'DOWN', 10.63014581273465)]
+Current: (3, 11)
+Current pos (successor function): (3, 11)
+Successors: [((4, 11), 'RIGHT', 5.408326913195984), ((3, 12), 'DOWN', 10.816653826391969)]
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: [((4, 10), 'DOWN', 11.313708498984761)]
+Current: (4, 11)
+Current pos (successor function): (4, 11)
+Successors: [((3, 11), 'LEFT', 5.0), ((4, 10), 'UP', 10.0)]
+Current: (4, 11)
+Current: (3, 12)
+Current pos (successor function): (3, 12)
+Successors: [((3, 11), 'UP', 10.295630140987), ((3, 13), 'DOWN', 10.295630140987)]
+Current: (3, 13)
+Current pos (successor function): (3, 13)
+Successors: [((3, 12), 'UP', 9.848857801796104)]
+Current: (3, 10)
+Current pos (successor function): (3, 10)
+Successors: [((4, 10), 'RIGHT', 0.7071067811865476), ((3, 11), 'DOWN', 1.4142135623730951)]
+Current: (4, 10)
+Current pos (successor function): (4, 10)
+Successors: [((4, 9), 'UP', 1.0), ((4, 11), 'DOWN', 1.0)]
+Current: (3, 11)
+Current pos (successor function): (3, 11)
+Successors: [((4, 11), 'RIGHT', 1.118033988749895), ((3, 12), 'DOWN', 2.23606797749979)]
+Current: (4, 9)
+Goal state!
+A_Star number of actions: 2
+A_Star score: 58
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 11)
+Current pos (successor function): (4, 11)
+Successors: [((3, 11), 'LEFT', 1.0)]
+Current: (4, 11)
+Current: (3, 12)
+Current pos (successor function): (3, 12)
+Successors: [((3, 11), 'UP', 3.1622776601683795), ((3, 13), 'DOWN', 3.1622776601683795)]
+Current: (3, 13)
+Current pos (successor function): (3, 13)
+Successors: [((3, 12), 'UP', 4.123105625617661)]
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
+Current: (4, 9)
+Current pos (successor function): (4, 9)
+Successors: []
